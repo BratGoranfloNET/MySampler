@@ -1,0 +1,15 @@
+C:\WORK_PET\MyLogger\bin\Debug\net7.0\MyLogger.exe
+C:\WORK_PET\MyLogger\bin\Debug\net7.0\MyLogger.deps.json
+C:\WORK_PET\MyLogger\bin\Debug\net7.0\MyLogger.runtimeconfig.json
+C:\WORK_PET\MyLogger\bin\Debug\net7.0\MyLogger.dll
+C:\WORK_PET\MyLogger\bin\Debug\net7.0\MyLogger.pdb
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.csproj.AssemblyReference.cache
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.AssemblyInfoInputs.cache
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.AssemblyInfo.cs
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.csproj.CoreCompileInputs.cache
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.dll
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\refint\MyLogger.dll
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.pdb
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\MyLogger.genruntimeconfig.cache
+C:\WORK_PET\MyLogger\obj\Debug\net7.0\ref\MyLogger.dll

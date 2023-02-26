@@ -1,0 +1,15 @@
+C:\WORK_PET\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\WORK_PET\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\WORK_PET\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\WORK_PET\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\WORK_PET\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\WORK_PET\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
