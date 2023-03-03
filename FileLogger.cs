@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class FileLogger :ILogger
     {
+        
         private readonly string path = "C:\\temp\\testlog.txt";
         public void Log(string log) 
         {
